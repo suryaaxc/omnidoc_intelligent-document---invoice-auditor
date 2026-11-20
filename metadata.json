@@ -1,0 +1,6 @@
+{
+  "name": "OmniDoc: Intelligent Document & Invoice Auditor",
+  "description": "Enterprise document intelligence, Responsible AI PII redaction, and grounded audit Q&A workspace aligned with Azure AI-900 fundamentals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
