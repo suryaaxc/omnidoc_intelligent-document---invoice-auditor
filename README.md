@@ -19,3 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/034cd8dc-508f-420d-89af-8a52b
 3. Run the app:
    `npm run dev`
 "# omnidoc_-intelligent-document---invoice-auditor" 
+"# omnidoc_intelligent-document--invoice-auditor" 
